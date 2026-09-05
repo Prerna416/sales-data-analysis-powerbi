@@ -107,7 +107,7 @@ Sales-Data-Analysis-PowerBI
 ├── Dashboard
 │   └── Sales_Data_Analysis.pbix
 │
-├── Screenshots
+├── Screenshot
 │   ├── 01_Overview.png
 │   ├── 02_Top_Bottom_Analysis.png
 │   ├── 03_Sales_Profit_Quantity_Comparison.png
